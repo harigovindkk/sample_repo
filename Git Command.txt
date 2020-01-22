@@ -1,0 +1,26 @@
+git init - to make repo
+
+git config --global user.name <username>
+
+git config --global user.email <email.id>
+
+git config --global core.editor <editor name>
+
+git status
+
+git add . - to add all files in folder to the staging area
+
+git add <filename> - to add file to the staging area
+
+git commit -m "<message>" - 
+
+git log - to get list of all commits
+
+git push <repo_url> master
+
+git remote add origin <repo_url> - saves the url to origin
+for next pushes, we just need to specify 
+git push origin master
+
+
+
